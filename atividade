@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang "pt - BR">
+<head>
+  <meta charset="UTF-8"
+  <title>Minha Primeira Página </title>
+</head>
+<body>
+  <h1>titulo principal</h1>
+  <h2> subtitulo (h2)</h2>
+   <h3> sub subtitulo (h3)</h3>
+     <h4> outro nivel de titulo (h4)</h4>
+       <h5> quase o menor titulo (h5)</h5>
+         <h6> menor titulo (h6)</h6>
+  <p>Esse é o teste da página web.</p>
+ </body>
+</html>
