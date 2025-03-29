@@ -1,0 +1,35 @@
+body{
+  background-color: #008B8B; 
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  color: #B0E0E6;
+  text-again: center;
+}
+h2 {
+  color: #F0E68C;
+  text-again: center;
+}
+h3 {
+  color: #FF7F50;
+  text-again: center;
+}
+h4 {
+  color: #FFA500;
+  text-again: center;
+}
+h5 {
+  color: #CD853F;
+  text-again: center;
+}
+h6 {
+  color: #DAA520;
+  text-again: center;
+}
+
+p {
+  color: #00FF00 ;
+  font-size: 20px;
+  text-align: center;
+}
